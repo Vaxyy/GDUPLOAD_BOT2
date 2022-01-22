@@ -4,7 +4,7 @@ class config:
     API_HASH = "2d3673e18b462f8032c4eea2f50b9f52"
     DATABASE_URL = "postgres://nit:Nite8275@nit.ctvl3ehl8ei1.ap-south-1.rds.amazonaws.com:5432/nit"
     SUDO_USERS = "1808315958" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://github.com/Vaxyy/GDriveUploader/"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "963596188755-eo4jf6pb3r2u85bueb8gjj2gvbitj4qe.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
